@@ -41,6 +41,7 @@
 
         <!--
             Para incluir suporte ao Google Play Games
+            (veja o arquivo ids.xml para mais informações)
         -->
         <meta-data android:name="com.google.android.gms.games.APP_ID"
                    android:value="@string/id_do_app" />

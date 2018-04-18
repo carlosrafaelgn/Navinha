@@ -8,7 +8,7 @@ android {
 		applicationId "br.com.carlosrafaelgn.navinha"
 		minSdkVersion 10
 		targetSdkVersion 26
-		versionCode 3
+		versionCode 4
 		versionName "1.00"
 	}
 	buildTypes {

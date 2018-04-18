@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--
+        Você só precisa incluir os ID's em seu app para Android.
+        Saiba mais sobre como fazer isso na documentação do desenvolvedor:
+        https://developers.google.com/games/services/android/quickstart#step_2_set_up_the_game_in_the_dev_console
+    -->
     <string name="id_do_app">Deve ser obtido no console do Google</string>
     <string name="id_do_placar">Deve ser obtido no console do Google</string>
     <string name="id_da_conquista_primeira_vez">Deve ser obtido no console do Google</string>
