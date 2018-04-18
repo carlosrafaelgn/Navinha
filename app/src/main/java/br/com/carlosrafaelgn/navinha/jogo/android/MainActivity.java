@@ -61,7 +61,6 @@ import javax.microedition.khronos.egl.EGLSurface;
 import javax.microedition.khronos.opengles.GL10;
 
 import br.com.carlosrafaelgn.navinha.jogo.cenarios.CenarioInicial;
-import br.com.carlosrafaelgn.navinha.jogo.cenarios.CenarioTeste;
 import br.com.carlosrafaelgn.navinha.modelo.jogo.Jogo;
 import br.com.carlosrafaelgn.navinha.modelo.interacao.Ponteiro;
 import br.com.carlosrafaelgn.navinha.modelo.dados.imutavel.Vetor;
