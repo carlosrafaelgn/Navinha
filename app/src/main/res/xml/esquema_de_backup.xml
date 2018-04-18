@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Para mais informações: https://developer.android.com/preview/backup/index.html -->
+    <!-- Esse é o único arquivo persistente do jogo -->
+    <include domain="file" path="configuracoes" />
+</full-backup-content>

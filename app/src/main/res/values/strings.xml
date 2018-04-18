@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navinha</string>
+    <string name="alerta">Aviso:\n\nIsto não é um jogo de verdade!\nÉ o resultado final do livro\n\"Meu Primeiro Jogo de Navinha\"! :)\n\nO código pode ser encontrado aqui:\ngithub.com/carlosrafaelgn/Navinha</string>
+	<string name="subtitulo">Toque na tela para iniciar</string>
+	<string name="entrar_play_games">Entrar no Play Games</string>
+	<string name="sair_play_games">Sair do Play Games</string>
+	<string name="conquistas">Conquistas</string>
+	<string name="placar">Placar</string>
+    <string name="tentar_de_novo">Tentar de novo</string>
+    <string name="sair">Sair</string>
+    <string name="explicacao">Destrua quantos inimigos\nconseguir antes que\nas vidas acabem!</string>
+    <string name="explicacao_controle_por_toque">Toque nas laterais\npara mover a nave</string>
+    <string name="explicacao_controle_por_movimento">Vire o dispositivo\npara mover a nave</string>
+    <string name="explicacao_final">Toque para iniciar</string>
+    <string name="pontos">Pontos:</string>
+    <string name="vidas">Vidas:</string>
+    <string name="pausar">Pausar</string>
+    <string name="pausado">Pausado</string>
+    <string name="confirmacao">Deseja mesmo sair?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="parabens">Parabéns!! Novo recorde:</string>
+    <string name="game_over">Game Over :(\n\nRecorde:</string>
+    <string name="controle_por_toque">Controle por toque</string>
+    <string name="controle_por_movimento">Controle por movimento</string>
+    <string name="numeros_e_simbolos">&gt;0123456789</string>
+</resources>

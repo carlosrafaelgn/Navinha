@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_do_app">Deve ser obtido no console do Google</string>
+    <string name="id_do_placar">Deve ser obtido no console do Google</string>
+    <string name="id_da_conquista_primeira_vez">Deve ser obtido no console do Google</string>
+    <string name="id_da_conquista_pacifista">Deve ser obtido no console do Google</string>
+    <string name="id_da_conquista_invencivel">Deve ser obtido no console do Google</string>
+    <string name="id_da_conquista_destruidor">Deve ser obtido no console do Google</string>
+    <string name="id_da_conquista_aniquilador">Deve ser obtido no console do Google</string>
+</resources>
